@@ -2,6 +2,8 @@ delete all info
 
 insert a new line at master for no confligt
 
+new line for test
+
 the next is manage modify
 
 insert new line
