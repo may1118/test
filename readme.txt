@@ -1,2 +1,6 @@
-git is a version control system
-git is free software
+delete all info
+the next is manage modify
+
+insert new line
+
+insert new line again
